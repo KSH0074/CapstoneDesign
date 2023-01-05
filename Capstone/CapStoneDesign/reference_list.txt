@@ -1,0 +1,46 @@
+https://chulin28ho.tistory.com/426 //Unity 환경에서 윤곽선 렌더링
+https://flowtree.tistory.com/19 // Unity AI 개발 관련 참조 
+https://docs.unity3d.com/kr/2021.3/Manual/class-CharacterController.html //계단 슬로프 설정 `
+https://euncero.tistory.com/429 // 게임 매니저 관련 
+https://angliss.cc/cam-follow-gameobject/ //카메라 관련 
+https://beatchoi.github.io/unity3d/fundamentals/2021/07/30/CharacterStats/ // status 관련 
+
+9/13 기준 
+
+실전 유니티 3D 입문과 완성 : 대출 가능
+
+(유니티짱으로 배우는) 유니티 5 3D 게임 제작 입문 : 대출 가능 
+
+인생 유니티 교과서 : 유니티 게임 개발 탑티어 강의! : 대출 중 
+
+핵심강좌! 유니티5 : 대출 중 
+
+유니티 게임 개발을 위한 절차적 콘텐트 생성 : PCG 기술을 사용한 유니티 RPG 게임 개발: 대출 가능
+
+(나홀로 완성하는) 유니티 3D 액션 게임 : 유니티5, 클라우드, C# 서버까지 한방에 마스터 : 대출 중 
+
+외 E-Book 제외 19권의 도서 있음 
+대출 중 2권 불가 1권 16권 참고 가능 
+
+// free assests
+https://assetstore.unity.com/packages/2d/gui/icons/free-ui-pack-170878 //UI 관련
+https://fonts.google.com/icons //UI Icon
+https://www.flaticon.com/kr/free-icon/right-click-of-the-mouse_31532# //Main Menu Click Icon
+https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285//Next Level Portal
+https://assetstore.unity.com/packages/3d/environments/urban/uk-terraced-houses-pack-free-63481 // Maze 
+https://assetstore.unity.com/packages/3d/props/exterior/old-plastic-barrier-182509 // 
+https://assetstore.unity.com/packages/audio/sound-fx/retro-sci-fi-pack-61781
+https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116 // SFX pack
+https://opengameart.org/ // Sound Effect
+https://www.turbosquid.com/3d-models/3d-model-crowbar-lowpoly-pbr-free-1864881 // Player Weapon
+https://pgtd.tistory.com/200 // 
+
+유료
+https://assetstore.unity.com/packages/3d/environments/urban/subway-environment-16741#content
+- $12.99
+https://assetstore.unity.com/packages/3d/characters/zombie-slaughter-119817
+- $9.99
+
+
+
+
